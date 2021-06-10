@@ -5,6 +5,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jo1013&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://img.shields.io/badge/PYTHON-#3776ABstyle=flat-square&logo=Vimeo&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
 
